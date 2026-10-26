@@ -1,0 +1,9 @@
+{
+    "Theme_Type": "json",
+    "Name": "test",
+    "Description": "Test theme",
+    "app_theme_data": {
+        "font": "Hack",
+        "text_color": "#FF0000"
+    }
+}
